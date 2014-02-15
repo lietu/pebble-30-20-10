@@ -1,0 +1,17 @@
+{
+  "uuid": "6c4f0a68-53b7-4cb0-8e13-34db7e7ac0c7",
+  "shortName": "30-20-10",
+  "longName": "30-20-10",
+  "companyName": "Janne Enberg",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
